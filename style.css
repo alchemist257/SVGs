@@ -1,0 +1,7 @@
+.cloud {
+	.fill:#606060;
+}
+
+.cloud:hover {
+	fill: #eaeaea;
+}
